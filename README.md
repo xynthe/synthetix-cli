@@ -1,4 +1,4 @@
-# synthetix-cli
+# xynthe-cli
 
 A set of cli utilities for the Synthetix protocol
 
